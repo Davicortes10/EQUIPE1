@@ -1,0 +1,20 @@
+#navegacao{
+	background: #292e4a;
+}
+
+ul li a:hover{
+	background-color: #6068ae;
+}
+
+footer{
+	background: #292e4a;
+}
+p{
+	color: white;
+}
+#contato{
+	padding: 10px;
+	background: #27348b;
+}
+h3{
+	text-align: center;
